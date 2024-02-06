@@ -1,0 +1,88 @@
+body{
+    background-color:rgb(204, 255, 255);
+    color:black;
+    font-size: 12x;
+    font-family: Arial;
+    margin: 11px
+    
+    
+
+}
+
+
+
+
+
+h1 {
+    background-color: #333399;
+    color: white; 
+    font-size: 30x;
+    font-family: Arial;
+    margin-left: 10px;
+   
+   
+}
+
+h2 {
+    color: rgb(255, 255, 255); 
+    background-color: #12a1b4;
+    font-size: 25px;
+    font-family: Arial;
+    margin-left: 10px;
+
+
+
+}
+
+h5 {
+    color: rgb(218, 174, 174); 
+    background-color: #a51fcb;
+    font-size: 25px;
+    font-family: Arial;
+    margin-left: 10px;
+
+
+
+}
+
+p{
+    color: rgb(56, 102, 79); 
+    font-size: 12x;
+    font-family: Arial;
+    margin-left: 10px;
+
+
+}
+
+a:link, a:visited {
+    color:blue;
+    text-decoration: underline;
+    cursor: auto;
+    
+}
+
+a:link:active, a:visited:active {
+    color:purple;
+
+}
+
+
+a:link:hover {
+    color:#c6eb30
+
+}
+
+.first{
+    color: rgb(19, 145, 19)
+
+
+
+}
+
+.second{
+     color:red 
+
+
+}
+
+table, td, th { border: 1px solid #000;}
